@@ -1,0 +1,6 @@
+flask
+pandas
+pyspark
+matplotlib
+seaborn
+gunicorn
