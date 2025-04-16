@@ -30,10 +30,13 @@ Lịch sử hút thuốc so với dự đoán
 
 🛠️ Công Nghệ Sử Dụng
 
-Thành phần	Công nghệ
+Thành phần Công nghệ
 Backend	Flask
+
 Dự đoán	PySpark + MLlib
+
 Trực quan hóa	Matplotlib + Seaborn
+
 Mô hình ML:	RandomForestClassificationModel
 
 🛠️ Cài đặt
