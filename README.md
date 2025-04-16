@@ -9,6 +9,7 @@
 🔹 Trực quan hóa dữ liệu bằng biểu đồ
 
 🔍 Chức Năng Chính
+
 ✅ Dự đoán đơn: Người dùng nhập thông tin qua biểu mẫu và nhận kết quả dự đoán ngay.
 
 📁 Dự đoán nhiều người qua CSV: Tải lên một file CSV chứa nhiều hồ sơ sức khỏe để dự đoán hàng loạt.
